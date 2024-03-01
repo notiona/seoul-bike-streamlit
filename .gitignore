@@ -6,3 +6,4 @@ __pycache__/
 *.csv
 *.parq
 *.geojson
+!data/aggregate_daily_usage/agg_daily_usage.parq
