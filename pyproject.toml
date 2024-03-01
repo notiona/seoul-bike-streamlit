@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "seoul-bike-streamlit"
+version = "0.1.0"
+description = "Streamlit app to visualize Seoul Bike Usage"
+authors = ["notiona <notiona@snu.ac.kr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.30.0"
+pandas = "^2.2.0"
+numpy = "^1.26.3"
+plotly = "^5.18.0"
+pyyaml = "^6.0.1"
+statsmodels = "^0.14.1"
+plotly-calplot = "^0.1.20"
+folium = "^0.16.0"
+streamlit-folium = "^0.18.0"
+geopandas = "^0.14.3"
+
+[tool.poetry.group.dev]
+optional = true
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[tool.poetry.group.test.dependencies]
+pylint = "^3.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,11 @@
+대여일자: timestamp
+대여소번호: rent_station_code
+대여소: rent_station_name
+대여구분코드: rent_type
+성별: gender
+연령대: age
+' 이용건수': rent_count # preceding space is intentional
+운동량: exercise_amount
+탄소량: carbon_emission
+이동거리(M): rent_meter
+이용시간(분): rent_minute

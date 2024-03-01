@@ -1,0 +1,1 @@
+Data in this folder has been downloaded from `https://github.com/vuski/admdongkor/blob/master/ver20230701/HangJeongDong_ver20230701.geojson`.
