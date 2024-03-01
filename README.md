@@ -10,7 +10,7 @@ poetry install
 
 If not, run:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements-pip.txt
 ```
 
 ## Quick Start
