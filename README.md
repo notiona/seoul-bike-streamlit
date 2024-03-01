@@ -38,5 +38,8 @@ python seoul_bike_streamlit/preprocessing/preprocessor.py
 
 This will populate `data/daily_usage` and `data/monthly_usage` folders with cleaned data, and `data/aggregate_daily_usage` with the aggregated daily usage data.
 
+## Notes along the way
+The techniques and concepts used in this repository is documented in [my blog](notiona.github.io), so feel free to check it out!
+
 ## Contributing
-Feel free to write issues or PRs into this repository at any time.
+Feel free to write issues or PRs into this repository at any time. 😀
